@@ -1,6 +1,7 @@
 ﻿using System;
+using RadiationCalculator;
 
-namespace RadiationCalculator
+namespace CalculatorRadiationConsole
 {
     class Program
     {
@@ -11,7 +12,8 @@ namespace RadiationCalculator
             Console.WriteLine("Enter the Nth root:");
             int n = int.Parse(Console.ReadLine());
 
-            CalculateRadiation.Calc(a, n);
+            Console.WriteLine("\nThe answer is: ");
+            Console.WriteLine(CalculateRadiation.Calc(a, n));
         }
     }
 }

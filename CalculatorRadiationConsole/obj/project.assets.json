@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "RadiationCalculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/RadiationCalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RadiationCalculator.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RadiationCalculator/1.0.0": {
+      "type": "project",
+      "path": "../CalculatorRadiation/RadiationCalculator.csproj",
+      "msbuildProject": "../CalculatorRadiation/RadiationCalculator.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "RadiationCalculator >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kelvi\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual_Code_Projects\\RadiationCalculator\\RadiationCalculator.csproj",
-      "projectName": "RadiationCalculator",
-      "projectPath": "D:\\Visual_Code_Projects\\RadiationCalculator\\RadiationCalculator.csproj",
+      "projectUniqueName": "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiationConsole\\CalculatorRadiationConsole.csproj",
+      "projectName": "CalculatorRadiationConsole",
+      "projectPath": "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiationConsole\\CalculatorRadiationConsole.csproj",
       "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual_Code_Projects\\RadiationCalculator\\obj\\",
+      "outputPath": "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiationConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kelvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiation\\RadiationCalculator.csproj": {
+              "projectPath": "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiation\\RadiationCalculator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalculatorRadiationConsole/1.0.0": {
+        "dependencies": {
+          "RadiationCalculator": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorRadiationConsole.dll": {}
+        }
+      },
+      "RadiationCalculator/1.0.0": {
+        "runtime": {
+          "RadiationCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorRadiationConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RadiationCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

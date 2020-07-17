@@ -14,19 +14,25 @@ namespace CalculatorRadiation.Tests
         [Test]
         public void RadiationCalculator_Returns_ArgumentException_When_No_Argument_is_Given()
         {
-            Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc());
+            Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc(-100, 100));
         }
-        public void RadiationCalculator_Returns_ArgumentException_When_NegativeNumberandOddN_is_Given()
+
+        [Test]
+        public void RadiationCalculator_Returns_ArgumentException_When_negative1_andsquareroot_is_Given()
         {
             Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc(-1,2));
         }
-        public void RadiationCalculator_Returns_ArgumentException_When_No_Argument_is_Given()
+
+        [Test]
+        public void RadiationCalculator_Returns_ArgumentException_When_negative100_and4throot_is_Givenn()
         {
-            Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc());
+            Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc(-100,4));
         }
-        public void RadiationCalculator_Returns_ArgumentException_When_No_Argument_is_Given()
+
+        [Test]
+        public void RadiationCalculator_Returns_ArgumentException_When_String_is_Given()
         {
-            Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc());
+            Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc(-200,-46));
         }
 
         [Test]
@@ -38,19 +44,19 @@ namespace CalculatorRadiation.Tests
         [Test]
         public void RadiationCalculator_Returns_2_When_8and_CubeRoot_is__is_Given()
         {
-            Assert.AreEqual(5, CalculateRadiation.Calc(25, 3));
+            Assert.AreEqual(2, CalculateRadiation.Calc(8, 3));
         }
 
         [Test]
-        public void RadiationCalculator_Returns_9_When_81_is_Given()
+        public void RadiationCalculator_Returns_negative2_When_8and_CubeRoot_is__is_Given()
         {
-            Assert.AreEqual(9, CalculateRadiation.Calc(81, 2));
+            Assert.AreEqual(2, CalculateRadiation.Calc(8, 3));
         }
 
         [Test]
         public void RadiationCalculator_Returns_1dot73205080757_When_3_is_Given()
         {
-            Assert.AreEqual(1.73205080757, CalculateRadiation.Calc(3, 2));
+            Assert.AreEqual(1.7320508075688772, CalculateRadiation.Calc(3, 2));
         }
     }
 }

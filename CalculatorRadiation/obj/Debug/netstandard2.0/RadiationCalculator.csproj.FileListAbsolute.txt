@@ -1,0 +1,9 @@
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation\bin\Debug\netstandard2.0\RadiationCalculator.deps.json
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation\bin\Debug\netstandard2.0\RadiationCalculator.dll
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation\bin\Debug\netstandard2.0\RadiationCalculator.pdb
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation\obj\Debug\netstandard2.0\RadiationCalculator.csprojAssemblyReference.cache
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation\obj\Debug\netstandard2.0\RadiationCalculator.AssemblyInfoInputs.cache
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation\obj\Debug\netstandard2.0\RadiationCalculator.AssemblyInfo.cs
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation\obj\Debug\netstandard2.0\RadiationCalculator.csproj.CoreCompileInputs.cache
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation\obj\Debug\netstandard2.0\RadiationCalculator.dll
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation\obj\Debug\netstandard2.0\RadiationCalculator.pdb
