@@ -1,0 +1,4 @@
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation.Tests\obj\Debug\netcoreapp3.1\CalculatorRadiation.Tests.csprojAssemblyReference.cache
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation.Tests\obj\Debug\netcoreapp3.1\CalculatorRadiation.Tests.AssemblyInfoInputs.cache
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation.Tests\obj\Debug\netcoreapp3.1\CalculatorRadiation.Tests.AssemblyInfo.cs
+D:\Visual_Code_Projects\RadiationCalculator\CalculatorRadiation.Tests\obj\Debug\netcoreapp3.1\CalculatorRadiation.Tests.csproj.CoreCompileInputs.cache

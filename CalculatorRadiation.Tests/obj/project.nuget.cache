@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+bVB/0ngWcdM/Ufh4+V2cHv1vrdy3hZGYWRrA+8d10GxXAnyFpCjA7xvh7d1cop3oxurq4SVg1LBc5Dx+oKDA==",
+  "dgSpecHash": "DNt2yGtukT+l7FENhMmSgu4o+L2Tmplx+Nu6Pn3+hRkwsUSRo6dLb/vC71gm/dDY6+l2yqNclSrvJYeMidhqUw==",
   "success": true,
-  "projectFilePath": "D:\\Visual_Code_Projects\\RadiationCalculator\\RadiationCalculator.Test\\RadiationCalculator.Test.csproj",
+  "projectFilePath": "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiation.Tests\\CalculatorRadiation.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kelvi\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\kelvi\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

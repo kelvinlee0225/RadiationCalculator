@@ -4633,11 +4633,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual_Code_Projects\\RadiationCalculator\\RadiationCalculator.Test\\RadiationCalculator.Test.csproj",
-      "projectName": "RadiationCalculator.Test",
-      "projectPath": "D:\\Visual_Code_Projects\\RadiationCalculator\\RadiationCalculator.Test\\RadiationCalculator.Test.csproj",
+      "projectUniqueName": "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiation.Tests\\CalculatorRadiation.Tests.csproj",
+      "projectName": "CalculatorRadiation.Tests",
+      "projectPath": "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiation.Tests\\CalculatorRadiation.Tests.csproj",
       "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual_Code_Projects\\RadiationCalculator\\RadiationCalculator.Test\\obj\\",
+      "outputPath": "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiation.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kelvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
