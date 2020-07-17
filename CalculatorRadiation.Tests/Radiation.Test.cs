@@ -16,9 +16,9 @@ namespace CalculatorRadiation.Tests
         {
             Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc());
         }
-        public void RadiationCalculator_Returns_ArgumentException_When_No_Argument_is_Given()
+        public void RadiationCalculator_Returns_ArgumentException_When_NegativeNumberandOddN_is_Given()
         {
-            Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc());
+            Assert.Throws<ArgumentException>(() => CalculateRadiation.Calc(-1,2));
         }
         public void RadiationCalculator_Returns_ArgumentException_When_No_Argument_is_Given()
         {
