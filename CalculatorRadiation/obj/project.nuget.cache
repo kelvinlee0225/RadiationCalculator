@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zteJNdYAt8mvIG+x4JHWj/wgLgcqVudtZ+aWqdLr3+N6iAYLxv05fkC8JlezCNQ0vg9WcdeqrK0oGrkjDpYlMw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual_Code_Projects\\RadiationCalculator\\CalculatorRadiation\\CalculatorRadiation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelvi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kelvi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
